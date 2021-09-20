@@ -2,7 +2,7 @@
 
 Hello, my name is Boran and I am 16 years old. I started 1 year ago by developing Discord bots. And there are still programming languages that I don't know, I'm still learning, I'm still pretty new at this. As yet, I only know JavaScript among programming languages.
 
-Skills: JavaScript
+💻 JavaScript
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Matthejs) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/borangkdn) 
