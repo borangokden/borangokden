@@ -7,7 +7,7 @@ Hello, my name is Boran and I am 16 years old. I started 1 year ago by developin
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Matthejs) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/borangkdn) 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.youtube.com/channel/https://www.youtube.com/channel/UCZ0DgL77TQFNMwmnbvG8cuw)
-[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />](https://discord.gg/users/796263552771817472)
+[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />](https://discord.gg/users/jdE6vjdPud)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthejs&show_icons=true)  
 
