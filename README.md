@@ -11,3 +11,6 @@ Hello, my name is Boran and I am 16 years old. I started 1 year ago by developin
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthejs&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Matthejs)  
+
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472)](https://discord.com/users/852593590181691402)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852593590181691402)
