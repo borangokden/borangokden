@@ -1,6 +1,6 @@
 ### Hi there I'm Matthe 🖐
 
-Hello, my name is Boran and I am 17 years old. I started 1 year ago by developing Discord bots. And there are still programming languages that I don't know, I'm still learning, I'm still pretty new at this. As yet, I only know JavaScript among programming languages.
+Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
 
 💻 JavaScript
 
