@@ -10,3 +10,5 @@ Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştir
 
 ![Profile views](https://gpvc.arturio.dev/Matthejs)  
 [Discord Profilime Bakmak İçin Tıkla!](https://discord.com/users/796263552771817472) - [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/matthe) 
+
+    <ahref="https://discord.com/users/350976460313329665" 
