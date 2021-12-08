@@ -1,4 +1,4 @@
-### Selamlar Millet! Ben Matthe 🖐
+### Selamlar Millet! Ben BoranGkdn 🖐
 
 Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
 
@@ -8,6 +8,6 @@ Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştir
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthejs&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/Matthejs)  
-[Discord Profilime Bakmak İçin Tıkla!](https://discord.com/users/796263552771817472) - [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/matthe) 
+![Profile views](https://gpvc.arturio.dev/BoranGkdn)  
+[Discord Profilime Bakmak İçin Tıkla!](https://discord.com/users/796263552771817472) - [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/BoranGkdn) 
 
