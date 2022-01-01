@@ -1,4 +1,4 @@
-### Selamlar Millet! Ben BoranGkdn 🖐
+### Selamlar Millet! Ben Boran 🖐
 
 Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
 
