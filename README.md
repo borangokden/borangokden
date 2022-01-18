@@ -9,5 +9,6 @@ Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştir
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoranGkdn&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/BoranGkdn)  
-[Discord Profilime Bakmak İçin Tıkla!](https://discord.com/users/796263552771817472) - [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/BoranGkdn) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/239330400223232000)
+[Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/BoranGkdn) 
 
