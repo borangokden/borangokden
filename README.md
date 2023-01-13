@@ -1,6 +1,6 @@
 ### Selamlar Millet! Ben Boran 🖐
 
-Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
+Merhaba adım Boran ve 17 yaşındayım. 3 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
 
 💻 JavaScript, Python, TypeScript, Java
 
@@ -9,6 +9,6 @@ Merhaba adım Boran ve 17 yaşındayım. 1 yıl önce Discord botları geliştir
 ![Profile views](https://gpvc.arturio.dev/BoranGkdn)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoranGkdn&show_icons=true)  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/239330400223232000)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/444169685127135283?hideDiscrim=true)](https://discord.com/users/444169685127135283)
 [Sunucumuza Katılmak İçin Tıkla!](https://discord.gg/BoranGkdn) 
 
