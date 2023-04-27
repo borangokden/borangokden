@@ -1,6 +1,6 @@
 ### Selamlar Millet! Ben Boran 🖐
 
-Merhaba adım Boran ve 17 yaşındayım. 3 yıl önce Discord botları geliştirerek başladım. Ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript'i biliyorum.
+Merhaba adım Boran ve 18 yaşındayım. 4 yıl önce Discord botları geliştirerek yazılıma başladım, ve hâlâ bilmediğim programlama dilleri var, bu yüzden öğrenmeye devam ediyorum, bu konuda hâlâ oldukça yeniyim. Henüz programlama dilleri arasından sadece JavaScript, CSS, Python ve Html biliyorum.
 
 💻 JavaScript, Python, TypeScript, Java
 
